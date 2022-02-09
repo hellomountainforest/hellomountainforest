@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hellomountainforest
-- 👀 I’m interested in programming...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: with email or telegram
